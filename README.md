@@ -1,16 +1,34 @@
-## Hi there 👋
+Njabulo
 
-<!--
-**njabulo-ND/njabulo-ND** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCom Information Systems student with a strong interest in data engineering and backend systems.
+Currently building technical skills in Python, SQL, and data-related technologies.
 
-Here are some ideas to get you started:
+## About Me
+I am a motivated Information Systems student focused on developing practical problem-solving
+skills through hands-on coding and structured learning. My goal is to become a competitive
+data engineering & Analyst graduate prepared for internships and entry-level roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Python (fundamentals, problem-solving, data structures)
+- SQL (queries, filtering, joins, aggregation)
+- Git and GitHub
+- Data analysis fundamentals
+
+## Projects
+**Python Practice**
+  - Core Python exercises covering loops, functions, lists, tuples, and dictionaries
+
+**SQL Practice**
+  - Query-based exercises focusing on data retrieval and manipulation
+
+**Learning Repository**
+  - Notes and small experiments related to data engineering concepts
+
+## Current Focus
+- Improving Python problem-solving skills
+- Strengthening SQL for data work
+- Learning data engineering & Analysis fundamentals
+
+## Contact
+LinkedIn: (www.linkedin.com/in/njbl-dhladhla)
+Email: (njbldhladhla@gmail.com)
