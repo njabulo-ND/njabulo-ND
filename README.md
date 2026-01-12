@@ -1,6 +1,6 @@
 Njabulo
 
-BCom Information Systems student with a strong interest in data engineering and backend systems.
+BCom Information Systems student with a strong interest in data engineering, analytics and backend systems.
 Currently building technical skills in Python, SQL, and data-related technologies.
 
 ## About Me
